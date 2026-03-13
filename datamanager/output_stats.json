@@ -1,0 +1,57 @@
+{
+  "n": 22741,
+  "age_mean": 38.506,
+  "age_min": 17.0,
+  "age_max": 78.0,
+  "hours_mean": 41.598,
+  "p_gt_50k": 0.2621,
+  "counts": {
+    "education_top10": {
+      "HS-grad": 8016,
+      "Some-college": 4980,
+      "Bachelors": 4050,
+      "Masters": 1266,
+      "Assoc-voc": 1089,
+      "Assoc-acdm": 783,
+      "11th": 658,
+      "10th": 611,
+      "9th": 393,
+      "Prof-school": 345
+    },
+    "gender": {
+      "Male": 15549,
+      "Female": 7192
+    },
+    "race_top10": {
+      "White": 19278,
+      "Black": 2348,
+      "Asian-Pac-Islander": 728,
+      "Amer-Indian-Eskimo": 217,
+      "Other": 170
+    },
+    "native_country_top10": {
+      "United-States": 20624,
+      "new_missing": 396,
+      "Mexico": 287,
+      "Philippines": 151,
+      "Germany": 99,
+      "Canada": 76,
+      "Puerto-Rico": 73,
+      "India": 72,
+      "Cuba": 62,
+      "England": 62
+    },
+    "occupation_top10": {
+      "Craft-repair": 3319,
+      "Exec-managerial": 3051,
+      "Prof-specialty": 3043,
+      "Adm-clerical": 2951,
+      "Sales": 2334,
+      "Other-service": 1781,
+      "Machine-op-inspct": 1614,
+      "Transport-moving": 1079,
+      "Handlers-cleaners": 939,
+      "new_missing": 882
+    }
+  }
+}
