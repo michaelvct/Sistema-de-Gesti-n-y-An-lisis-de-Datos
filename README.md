@@ -31,6 +31,6 @@ datamanager/
 - `processor.py`: filtros, ordenamiento y estadísticas.
 - `exporter.py`: exportación a JSON.
 - `utils.py`: funciones auxiliares (validación/normalización).
-- `main.py`: menú CLI (orquesta todo).
+- `main.py`: menú CLI .
 
 ---
