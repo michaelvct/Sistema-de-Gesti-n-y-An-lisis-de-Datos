@@ -1,9 +1,9 @@
 # DataManager CLI
 
 Integrantes:
-*
-*
-* Claudia Vivas
+*Cochachin Polich, Victor
+*Gavino, Jorge
+* Claudia, Vivas
 
 Proyecto en Python que implementa una herramienta de línea de comandos (CLI) para **cargar**, **procesar**, **analizar** y **exportar resultados** a partir de un archivo CSV.
 
